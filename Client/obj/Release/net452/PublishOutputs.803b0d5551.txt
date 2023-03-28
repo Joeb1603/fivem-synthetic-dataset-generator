@@ -1,0 +1,2 @@
+E:\Dissertation\FiveM\Dissertation\[managers]\DatasetGenerator\Client\bin\Release\net452\publish\DatasetGenerator.Client.net.dll
+E:\Dissertation\FiveM\Dissertation\[managers]\DatasetGenerator\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll

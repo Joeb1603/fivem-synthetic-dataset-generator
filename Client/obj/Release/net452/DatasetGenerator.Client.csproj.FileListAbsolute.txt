@@ -1,0 +1,9 @@
+E:\Dissertation\FiveM\Dissertation\[managers]\DatasetGenerator\Client\bin\Release\net452\DatasetGenerator.Client.net.dll
+E:\Dissertation\FiveM\Dissertation\[managers]\DatasetGenerator\Client\bin\Release\net452\CitizenFX.Core.Client.dll
+E:\Dissertation\FiveM\Dissertation\[managers]\DatasetGenerator\Client\obj\Release\net452\DatasetGenerator.Client.csproj.AssemblyReference.cache
+E:\Dissertation\FiveM\Dissertation\[managers]\DatasetGenerator\Client\obj\Release\net452\DatasetGenerator.Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dissertation\FiveM\Dissertation\[managers]\DatasetGenerator\Client\obj\Release\net452\DatasetGenerator.Client.AssemblyInfoInputs.cache
+E:\Dissertation\FiveM\Dissertation\[managers]\DatasetGenerator\Client\obj\Release\net452\DatasetGenerator.Client.AssemblyInfo.cs
+E:\Dissertation\FiveM\Dissertation\[managers]\DatasetGenerator\Client\obj\Release\net452\DatasetGenerator.Client.csproj.CoreCompileInputs.cache
+E:\Dissertation\FiveM\Dissertation\[managers]\DatasetGenerator\Client\obj\Release\net452\DatasetGenerator.Client.csproj.CopyComplete
+E:\Dissertation\FiveM\Dissertation\[managers]\DatasetGenerator\Client\obj\Release\net452\DatasetGenerator.Client.net.dll

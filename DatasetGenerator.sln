@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{B3FDAB5C-9F2F-4451-A9B3-DE46EC2F0609}") = "DatasetGenerator.Client", "Client\DatasetGenerator.Client.csproj", "{16CC2917-4A27-4771-B423-FE7D2C278A90}"
+EndProject
+Project("{B3FDAB5C-9F2F-4451-A9B3-DE46EC2F0609}") = "DatasetGenerator.Server", "Server\DatasetGenerator.Server.csproj", "{DF18F59D-89D0-4EDC-874E-5A47C7E43667}"
+EndProject
+Global
+  GlobalSection(SolutionConfigurationPlatforms) = preSolution
+    Debug|Any CPU = Debug|Any CPU
+    Release|Any CPU = Release|Any CPU
+  EndGlobalSection
+  GlobalSection(SolutionProperties) = preSolution
+    HideSolutionNode = FALSE
+  EndGlobalSection
+  GlobalSection(ProjectConfigurationPlatforms) = postSolution
+    {16CC2917-4A27-4771-B423-FE7D2C278A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+    {16CC2917-4A27-4771-B423-FE7D2C278A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+    {16CC2917-4A27-4771-B423-FE7D2C278A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+    {16CC2917-4A27-4771-B423-FE7D2C278A90}.Release|Any CPU.Build.0 = Release|Any CPU
+    {DF18F59D-89D0-4EDC-874E-5A47C7E43667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+    {DF18F59D-89D0-4EDC-874E-5A47C7E43667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+    {DF18F59D-89D0-4EDC-874E-5A47C7E43667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+    {DF18F59D-89D0-4EDC-874E-5A47C7E43667}.Release|Any CPU.Build.0 = Release|Any CPU
+  EndGlobalSection
+EndGlobal

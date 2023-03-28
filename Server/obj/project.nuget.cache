@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5GfmwdlpPU7Np+zPmfqgra5gVLURD32FTVBtYoslZ5Dhe/sHc/BqdEk8nWVUoc9P0tKff7nyy2YTQ34TXMpUA==",
+  "success": true,
+  "projectFilePath": "E:\\Dissertation\\FiveM\\Dissertation\\[managers]\\DatasetGenerator\\Server\\DatasetGenerator.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joe\\.nuget\\packages\\citizenfx.core.server\\1.0.6302\\citizenfx.core.server.1.0.6302.nupkg.sha512",
+    "C:\\Users\\Joe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Joe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
